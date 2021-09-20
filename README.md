@@ -1,4 +1,3 @@
-<<<<<<< Updated upstream
 # An Analysis of Kickstarter Campaigns
 Performing analysis on kickstarter data to uncover trends
 Helping a user by the name of Louise consider trends in theatre kickstarting funding. Primarily using Excel and its native functions for statistical analysis
@@ -66,4 +65,4 @@ Some of the limitations of the dataset is not having an even distribution of suc
 If we were able to widen our scope to theatre productions and perform an analysis of the amount of backing received per month, those results would allow for a better relationship of start dates and backing to be generated. 
 
 When considering the rises and dips for Outcomes based on goal, I am hesitant to state that there is any real trend for the amount of data needed and the success/failure of a production. If we were considering the entirety of kickstarters or anything close to plays (music/television), maybe that would generate a better graph with more backing across all categories
->>>>>>> Stashed changes
+
